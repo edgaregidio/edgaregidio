@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Edgar Egidio!
 
-- 🔭 Atualmente estou trabalhando com Fron-End
+- 🔭 Atualmente estou trabalhando com Fron-End utilizando React. Bacharel em Sistema de Informação e Designer.
 - 🌱 Estudando Typescript
 - 🤔 Estou procurando Fron-End com React
 
